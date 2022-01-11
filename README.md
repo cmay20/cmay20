@@ -8,9 +8,10 @@ Software Development. Previously, I worked as a Sensei at CodeNinjas where I hel
 teach young coders about the exciting world of Computer Science!  
 
 ## Current Projects
+    🤩 Project1 - About this project
+    🔥 Project2 - Working on ...
 
-
-## Knowledge Domains:
+## Tech Stack:
 
   #### Languages
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
