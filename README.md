@@ -7,8 +7,8 @@ Institute (SEI) and learned best practices in DevSecOps, Code Quality Testing, a
 Software Development. Previously, I worked as a Sensei at CodeNinjas where I helped 
 teach young coders about the exciting world of Computer Science!  
 
-## Recent Projects
-> 🤩 [Project1]() - About this project
+## Favorite Projects
+> 🤩 [Among Us 3D](https://github.com/cmay20/Among-Us-3D) - 'Among Us' game reimagined with pseudo-3D graphics and AI.
 
 > 🔥 [Project2]() - Working on ...
 
