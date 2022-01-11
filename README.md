@@ -2,7 +2,7 @@
 
 
 I am a Sophomore at Carnegie Mellon University studying Information Systems and 
-Computer Science. This summer, I interned at the Software Engineering 
+Computer Science. Last summer, I interned at the Software Engineering 
 Institute (SEI) and learned best practices in DevSecOps, Code Quality Testing, and 
 Software Development. Previously, I worked as a Sensei at CodeNinjas where I helped 
 teach young coders about the exciting world of Computer Science!  
