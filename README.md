@@ -7,7 +7,7 @@ Institute (SEI) and learned best practices in DevSecOps, Code Quality Testing, a
 Software Development. Previously, I worked as a Sensei at CodeNinjas where I helped 
 teach young coders about the exciting world of Computer Science!  
 
-## Current Projects
+## Recent Projects
 > 🤩 [Project1]() - About this project
 
 > 🔥 [Project2]() - Working on ...
