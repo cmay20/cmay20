@@ -10,7 +10,7 @@ teach young coders about the exciting world of Computer Science!
 ## Favorite Projects
 > 🤩 [Among Us 3D](https://github.com/cmay20/Among-Us-3D) - 'Among Us' game reimagined with pseudo-3D graphics and AI.
 
-> 🔥 [Project2]() - Working on ...
+> 🔥 [Instagram Database Model](https://github.com/cmay20/Instagram-Database-Model) - PostgreSQL database modeling features of Instagram
 
 ## Tech Stack:
 
