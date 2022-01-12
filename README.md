@@ -12,7 +12,7 @@ teach young coders about the exciting world of Computer Science!
 
 > 📸 [Instagram Database Model](https://github.com/cmay20/Instagram-Database-Model) - PostgreSQL database modeling features of Instagram
 
-## Tech Stack:
+## Knowledge Domain
 
   #### Languages
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
