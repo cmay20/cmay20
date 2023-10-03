@@ -1,8 +1,7 @@
 # Hi there, I'm Colin 👋🏻
 
-
-I am a Junior at Carnegie Mellon University studying Information Systems and 
-Computer Science. This past summer I interned on Omnicell's Software Quality team where I learned software testing with embedded, robotic systems and implemented custom software automation for the betterment of medication management and patient safety. In 2021, I interned at the Software Engineering 
+I am a Senior at Carnegie Mellon University studying Information Systems and 
+Computer Science. This past summer, I interned at Apple Information Security as a software engineering intern. Previously, I interned on Omnicell's Software Quality team where I learned software testing with embedded, robotic systems and implemented custom software automation for the betterment of medication management and patient safety. In 2021, I interned at the Software Engineering 
 Institute (SEI) and learned best practices in DevSecOps, Code Quality Testing, and 
 Software Development. Previously, I worked as a Sensei at CodeNinjas where I helped 
 teach young coders about the exciting world of computer science!  
